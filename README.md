@@ -1,7 +1,6 @@
 # Hi I am Nabin
 
 ![Naabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=naabin&layout=donut-vertical&&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naabin&layout=donut-vertical)](https://github.com/naabin/github-readme-stats)
-
 ## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
